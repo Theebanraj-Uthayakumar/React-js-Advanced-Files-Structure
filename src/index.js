@@ -8,15 +8,15 @@ import reportWebVitals from "./reportWebVitals";
 import configureStore from "./redux/configureStore";
 import { Provider as ReduxProvider } from "react-redux";
 
-const store = configureStore();
+//const store = configureStore();
 
 ReactDOM.render(
-  <ReduxProvider store={store}>
-    <App />
-    {/* <AuthProvider>
+  // <ReduxProvider store={store}>
+    <App />,
+    // {/* <AuthProvider>
       
-    </AuthProvider> */}
-  </ReduxProvider>,
+    // </AuthProvider> */}
+  // </ReduxProvider>,
   document.getElementById("root")
 );
 
