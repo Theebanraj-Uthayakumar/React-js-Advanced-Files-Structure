@@ -1,0 +1,9 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "advertisement": "Advertisement",
+        "categories": "Categories"
+    }    
+}
