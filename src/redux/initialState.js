@@ -1,11 +1,11 @@
-export default {
-    lookupLists: {
-      countries: [],
-      states: [],
-      cities: [],      
-      users: [],
-    },
-    user: {},
-    customer: {},   
-  };
+// export default {
+//     lookupLists: {
+//       countries: [],
+//       states: [],
+//       cities: [],      
+//       users: [],
+//     },
+//     user: {},
+//     customer: {},   
+//   };
   
